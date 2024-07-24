@@ -1,0 +1,19 @@
+{
+    "name": "node",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "@tailwindcss/typography": "latest",
+        "@types/node": "latest",
+        "autoprefixer": "latest",
+        "postcss-load-config": "latest",
+        "postcss": "latest",
+        "prettier-plugin-tailwindcss": "latest",
+        "prettier": "latest",
+        "tailwindcss": "latest",
+        "typescript": "latest"
+    }
+}
